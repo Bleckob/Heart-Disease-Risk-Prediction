@@ -1,3 +1,6 @@
+Click here to view the interactive notebook if github fails to render my file
+https://nbviewer.org/github/Bleckob/Heart-Disease-Risk-Prediction/blob/main/HeartDiseasePrediction%20%281%29.ipynb
+
 Medical Heart Risk Prediction using XGBoost
 
 An airtight machine learning pipeline built to predict clinical heart disease risk with 83.61% accuracy using the UCI Heart Disease dataset.
